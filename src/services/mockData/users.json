@@ -1,0 +1,86 @@
+[
+  {
+    "Id": 1,
+    "name": "관리자",
+    "email": "admin@edustream.com",
+    "grade": "admin",
+    "joinedAt": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": 2,
+    "name": "김개발자",
+    "email": "kim.dev@email.com",
+    "grade": "member",
+    "joinedAt": "2024-01-15T10:30:00Z"
+  },
+  {
+    "Id": 3,
+    "name": "이시스템",
+    "email": "lee.system@email.com",
+    "grade": "master",
+    "joinedAt": "2024-01-10T14:20:00Z"
+  },
+  {
+    "Id": 4,
+    "name": "박프론트",
+    "email": "park.front@email.com",
+    "grade": "member",
+    "joinedAt": "2024-01-20T09:15:00Z"
+  },
+  {
+    "Id": 5,
+    "name": "최성능",
+    "email": "choi.performance@email.com",
+    "grade": "both",
+    "joinedAt": "2024-01-12T16:45:00Z"
+  },
+  {
+    "Id": 6,
+    "name": "정자바스",
+    "email": "jung.js@email.com",
+    "grade": "member",
+    "joinedAt": "2024-01-25T11:20:00Z"
+  },
+  {
+    "Id": 7,
+    "name": "신입개발",
+    "email": "newbie.dev@email.com",
+    "grade": "free",
+    "joinedAt": "2024-02-01T13:10:00Z"
+  },
+  {
+    "Id": 8,
+    "name": "한풀스택",
+    "email": "han.fullstack@email.com",
+    "grade": "member",
+    "joinedAt": "2024-01-18T15:40:00Z"
+  },
+  {
+    "Id": 9,
+    "name": "미래데브옵스",
+    "email": "future.devops@email.com",
+    "grade": "master",
+    "joinedAt": "2024-01-22T12:25:00Z"
+  },
+  {
+    "Id": 10,
+    "name": "끈기개발자",
+    "email": "persistent.dev@email.com",
+    "grade": "free",
+    "joinedAt": "2024-02-05T08:50:00Z"
+  },
+  {
+    "Id": 11,
+    "name": "안정성전문가",
+    "email": "stability.expert@email.com",
+    "grade": "master",
+    "joinedAt": "2024-01-30T17:30:00Z"
+  },
+  {
+    "Id": 12,
+    "name": "테스트사용자",
+    "email": "test.user@email.com",
+    "grade": "free",
+    "joinedAt": "2024-02-08T10:00:00Z"
+  }
+]

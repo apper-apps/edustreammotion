@@ -1,0 +1,80 @@
+[
+  {
+    "Id": 1,
+    "title": "React 기초부터 심화까지",
+    "description": "React의 기본 개념부터 고급 패턴까지 체계적으로 학습할 수 있는 완성형 강의입니다. 실제 프로젝트를 통해 실무에 필요한 스킬을 습득하세요.",
+    "thumbnailUrl": "https://images.unsplash.com/photo-1633356122544-f134324a6cee?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=80",
+    "videoUrl": "https://www.youtube.com/watch?v=Ke90Tje7VS0",
+    "topic": "React 개발",
+    "category": "membership",
+    "accessLevels": ["member", "both"],
+    "isPinned": true,
+    "duration": 7200,
+    "createdAt": "2024-01-15T10:00:00Z"
+  },
+  {
+    "Id": 2,
+    "title": "JavaScript ES6+ 완벽 가이드",
+    "description": "최신 JavaScript 문법과 기능들을 심도있게 다루는 강의입니다. 모던 웹 개발에 필수적인 ES6+ 기능들을 마스터하세요.",
+    "thumbnailUrl": "https://images.unsplash.com/photo-1627398242454-45a1465c2479?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=80",
+    "videoUrl": "https://www.youtube.com/watch?v=NCwa_xi0Uuc",
+    "topic": "JavaScript 개발",
+    "category": "membership",
+    "accessLevels": ["member", "both"],
+    "isPinned": false,
+    "duration": 5400,
+    "createdAt": "2024-01-20T14:30:00Z"
+  },
+  {
+    "Id": 3,
+    "title": "프론트엔드 성능 최적화",
+    "description": "웹 애플리케이션의 성능을 극대화하는 다양한 기법들을 학습합니다. Core Web Vitals 최적화부터 번들 사이즈 줄이기까지.",
+    "thumbnailUrl": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=80",
+    "videoUrl": "https://www.youtube.com/watch?v=AQqFZ5t8uNc",
+    "topic": "웹 성능",
+    "category": "membership",
+    "accessLevels": ["member", "both"],
+    "isPinned": false,
+    "duration": 4800,
+    "createdAt": "2024-02-01T09:15:00Z"
+  },
+  {
+    "Id": 4,
+    "title": "CSS Grid와 Flexbox 마스터하기",
+    "description": "현대적인 CSS 레이아웃 기법인 Grid와 Flexbox를 완벽하게 이해하고 활용하는 방법을 배웁니다.",
+    "thumbnailUrl": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=80",
+    "videoUrl": "https://www.youtube.com/watch?v=JJSoEo8JSnc",
+    "topic": "CSS 레이아웃",
+    "category": "membership",
+    "accessLevels": ["free", "member", "both"],
+    "isPinned": false,
+    "duration": 3600,
+    "createdAt": "2024-02-10T16:45:00Z"
+  },
+  {
+    "Id": 5,
+    "title": "Node.js 백엔드 개발 입문",
+    "description": "Node.js를 사용한 서버 개발의 기초부터 REST API 구축까지. Express.js와 MongoDB를 활용한 실전 프로젝트.",
+    "thumbnailUrl": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=80",
+    "videoUrl": "https://www.youtube.com/watch?v=f2EqECiTBL8",
+    "topic": "백엔드 개발",
+    "category": "membership",
+    "accessLevels": ["member", "both"],
+    "isPinned": false,
+    "duration": 6000,
+    "createdAt": "2024-02-15T11:20:00Z"
+  },
+  {
+    "Id": 6,
+    "title": "웹 접근성과 시맨틱 HTML",
+    "description": "모든 사용자를 위한 웹사이트 만들기. 웹 접근성 가이드라인(WCAG)을 준수하는 마크업 작성법을 학습합니다.",
+    "thumbnailUrl": "https://images.unsplash.com/photo-1551650975-87deedd944c3?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=80",
+    "videoUrl": "https://www.youtube.com/watch?v=rvYXa2nGEV4",
+    "topic": "웹 접근성",
+    "category": "membership",
+    "accessLevels": ["free", "member", "both"],
+    "isPinned": false,
+    "duration": 2700,
+    "createdAt": "2024-02-20T13:10:00Z"
+  }
+]

@@ -1,0 +1,67 @@
+[
+  {
+    "Id": 101,
+    "title": "마이크로서비스 아키텍처 설계",
+    "description": "확장 가능한 마이크로서비스 아키텍처 설계 원칙과 구현 방법. 서비스 메시, API 게이트웨이, 분산 트래이싱 등 고급 주제를 다룹니다.",
+    "thumbnailUrl": "https://images.unsplash.com/photo-1518186285589-2f7649de83e0?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=80",
+    "videoUrl": "https://www.youtube.com/watch?v=rv4LlmLmVWk",
+    "topic": "시스템 아키텍처",
+    "category": "master",
+    "accessLevels": ["master", "both"],
+    "isPinned": true,
+    "duration": 9000,
+    "createdAt": "2024-01-25T10:30:00Z"
+  },
+  {
+    "Id": 102,
+    "title": "대용량 트래픽 처리를 위한 캐싱 전략",
+    "description": "Redis, Memcached를 활용한 고성능 캐싱 시스템 구축. 캐시 일관성, 캐시 무효화 전략, CDN 활용법까지.",
+    "thumbnailUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=80",
+    "videoUrl": "https://www.youtube.com/watch?v=6FyXURRVmR0",
+    "topic": "시스템 최적화",
+    "category": "master",
+    "accessLevels": ["master", "both"],
+    "isPinned": false,
+    "duration": 7800,
+    "createdAt": "2024-02-05T15:00:00Z"
+  },
+  {
+    "Id": 103,
+    "title": "데이터베이스 샤딩과 복제 전략",
+    "description": "대규모 데이터베이스 시스템의 설계와 운영. 수평 샤딩, 마스터-슬레이브 복제, 데이터 일관성 보장 방법을 학습합니다.",
+    "thumbnailUrl": "https://images.unsplash.com/photo-1544383835-bda2bc66a55d?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=80",
+    "videoUrl": "https://www.youtube.com/watch?v=Y6Ev8GIlbxc",
+    "topic": "데이터베이스",
+    "category": "master",
+    "accessLevels": ["master", "both"],
+    "isPinned": false,
+    "duration": 8400,
+    "createdAt": "2024-02-12T12:45:00Z"
+  },
+  {
+    "Id": 104,
+    "title": "컨테이너 오케스트레이션과 Kubernetes",
+    "description": "Docker와 Kubernetes를 활용한 컨테이너 환경 구축. 서비스 디스커버리, 로드 밸런싱, 스케일링 자동화까지.",
+    "thumbnailUrl": "https://images.unsplash.com/photo-1667372393119-3d4c48d07fc9?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=80",
+    "videoUrl": "https://www.youtube.com/watch?v=X48VuDVv0do",
+    "topic": "DevOps",
+    "category": "master",
+    "accessLevels": ["master", "both"],
+    "isPinned": false,
+    "duration": 10200,
+    "createdAt": "2024-02-18T14:20:00Z"
+  },
+  {
+    "Id": 105,
+    "title": "분산 시스템 장애 복구 패턴",
+    "description": "Circuit Breaker, Bulkhead, Timeout 등 분산 시스템의 안정성을 보장하는 장애 복구 패턴들을 실습과 함께 학습합니다.",
+    "thumbnailUrl": "https://images.unsplash.com/photo-1571171637578-41bc2dd41cd2?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=80",
+    "videoUrl": "https://www.youtube.com/watch?v=ADHcBxEXvFA",
+    "topic": "시스템 안정성",
+    "category": "master",
+    "accessLevels": ["master", "both"],
+    "isPinned": false,
+    "duration": 6600,
+    "createdAt": "2024-02-25T16:30:00Z"
+  }
+]
